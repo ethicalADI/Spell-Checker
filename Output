@@ -1,0 +1,243 @@
+
+                                        --------------------------------------------
+                                        |      CONTACT MANAGEMENT APPLICATION      |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |       [6]  Exit                          |
+                                        --------------------------------------------
+
+                                        Enter your choice : 1
+                                                 Please Enter Name : Aditya
+                                                 Please Enter Contact No : 7536
+
+                                                 Data Added Successfully 
+
+                                        --------------------------------------------
+                                        |      CONTACT MANAGEMENT APPLICATION      |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |       [6]  Exit                          |
+                                        --------------------------------------------
+
+                                        Enter your choice : 1
+                                                 Please Enter Name : Aarti
+                                                 Please Enter Contact No : 1234
+
+                                                 Data Added Successfully 
+
+                                        --------------------------------------------
+                                        |      CONTACT MANAGEMENT APPLICATION      |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |       [6]  Exit                          |
+                                        --------------------------------------------
+
+                                        Enter your choice : 1
+                                                 Please Enter Name : Apple
+                                                 Please Enter Contact No : 8536
+
+                                                 Data Added Successfully 
+
+                                        --------------------------------------------
+                                        |      CONTACT MANAGEMENT APPLICATION      |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |       [6]  Exit                          |
+                                        --------------------------------------------
+
+                                        Enter your choice : 1
+                                                 Please Enter Name : Apply
+                                                 Please Enter Contact No : 9687
+
+                                                 Data Added Successfully 
+
+                                        --------------------------------------------
+                                        |      CONTACT MANAGEMENT APPLICATION      |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |       [6]  Exit                          |
+                                        --------------------------------------------
+
+                                        Enter your choice : 1
+                                                 Please Enter Name : Approve
+                                                 Please Enter Contact No : 1296
+
+                                                 Data Added Successfully 
+
+                                        --------------------------------------------
+                                        |      CONTACT MANAGEMENT APPLICATION      |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |       [6]  Exit                          |
+                                        --------------------------------------------
+
+                                        Enter your choice : 2
+                                                 Please Enter name to check: Aditya
+
+                                                 Contact exists 
+
+                                        --------------------------------------------
+                                        |      CONTACT MANAGEMENT APPLICATION      |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |       [6]  Exit                          |
+                                        --------------------------------------------
+
+                                        Enter your choice : 2
+                                                 Please Enter name to check: Appy
+
+                                                 Contact does not exist !! 
+
+                                        --------------------------------------------
+                                        |      CONTACT MANAGEMENT APPLICATION      |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |       [6]  Exit                          |
+                                        --------------------------------------------
+
+                                        Enter your choice : 3
+                                                 Please Enter prefix to check: Ap
+
+                                                 Contact exists with this prefix!! 
+
+                                        --------------------------------------------
+                                        |      CONTACT MANAGEMENT APPLICATION      |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |       [6]  Exit                          |
+                                        --------------------------------------------
+
+                                        Enter your choice : 3
+                                                 Please Enter prefix to check: Ca    
+
+                                                 Contact does not exist with this prefix!! 
+
+                                        --------------------------------------------
+                                        |      CONTACT MANAGEMENT APPLICATION      |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |       [6]  Exit                          |
+                                        --------------------------------------------
+
+                                        Enter your choice : 5
+                                                 Please Enter the prefix: Ap
+                                                 Apple
+                                                 Apply
+                                                 Approve
+
+                                        --------------------------------------------
+                                        |      CONTACT MANAGEMENT APPLICATION      |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |       [6]  Exit                          |
+                                        --------------------------------------------
+
+                                        Enter your choice : 5
+                                                 Please Enter the prefix: Pra
+
+                                                 Invalid!! Please Enter a valid Prefix
+
+                                        --------------------------------------------
+                                        |      CONTACT MANAGEMENT APPLICATION      |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |       [6]  Exit                          |
+                                        --------------------------------------------
+
+                                        Enter your choice : 4
+                                                 Please Enter name to delete : Aarti
+
+                                                 Data Deleted Successfully 
+
+                                        --------------------------------------------
+                                        |      CONTACT MANAGEMENT APPLICATION      |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |       [6]  Exit                          |
+                                        --------------------------------------------
+
+                                        Enter your choice : 4
+                                                 Please Enter name to delete : Pradeep
+
+                                                 Invalid!! Please Enter a valid name
+
+                                        --------------------------------------------
+                                        |      CONTACT MANAGEMENT APPLICATION      |
+                                        --------------------------------------------
+                                        |                                          |
+                                        |       [1]  Add Contacts                  |
+                                        |       [2]  Search by Name                |
+                                        |       [3]  Search by Prefix              |
+                                        |       [4]  Delete Data                   |
+                                        |       [5]  Show Prefixes                 |
+                                        |       [6]  Exit                          |
+                                        --------------------------------------------
+
+                                        Enter your choice : 6
+
+                                                        THANK YOU !
